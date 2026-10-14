@@ -15,5 +15,8 @@
 .env
 /Wallet_modeloappdb/
 
+# Banco local padrão (usamos Oracle)
+db.sqlite3
+
 # Arquivos enviados em tempo de execução
 /media/

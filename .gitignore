@@ -1,0 +1,19 @@
+# Python / Django
+**/__pycache__/*
+*.pyc
+/apps/categories/migrations/*
+/apps/products/migrations/*
+/apps/socialnetworks/migrations/*
+/apps/persons/migrations/*
+/apps/clients/migrations/*
+/apps/employees/migrations/*
+/apps/orders/migrations/*
+/apps/orderitems/migrations/*
+/apps/invoices/migrations/*
+
+# Segredos (não subir para o GitHub)
+.env
+/Wallet_modeloappdb/
+
+# Arquivos enviados em tempo de execução
+/media/
